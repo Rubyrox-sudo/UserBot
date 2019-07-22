@@ -180,7 +180,7 @@ FACEREACTS = [
     "(｡◕‿◕｡)",
 ]
 RUNSREACTS = [
-    "`Runs to Thanos`",
+    "`Runs to RubyRox`",
     "`Runs far, far away from earth`",
     "`Running faster than usian bolt coz I'mma Bot`",
     "`Runs to Marie`",
@@ -406,7 +406,7 @@ async def hacking (hacked):
         if await hacked.get_reply_message():
             await hacked.edit(
                 "`Targeted Account Hacked successfully 😎......`\n"
-                "`Pay 6969$ to` @shivamkchoudhary `To Remove This Hack...`\n"
+                "`Pay 6969$ to` @RubyRox `To Remove This Hack...`\n"
             )
 
 @register(outgoing=True, pattern="^.kill$")
